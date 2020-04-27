@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>MadaraUchiha.PrisonersNeedRecruiting</packageId>
+	<name>Prisoners Need Recruiting</name>
+	<author>Madara Uchiha</author>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<description>Prisoners who aren't assigned an interaction trigger an alert</description>
+</ModMetaData>
