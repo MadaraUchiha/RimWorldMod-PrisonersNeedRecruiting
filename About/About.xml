@@ -5,6 +5,7 @@
 	<author>Madara Uchiha</author>
 	<supportedVersions>
 		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<description>Prisoners who aren't assigned an interaction trigger an alert</description>
 </ModMetaData>
