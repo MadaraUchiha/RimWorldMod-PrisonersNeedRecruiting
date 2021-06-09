@@ -47,7 +47,7 @@ namespace PrisonersNeedRecruiting
             }
             if (_dismissed)
             {
-                return AlertReport.CulpritsAre(new List<Pawn>());
+                return AlertReport.Inactive;
             }
             return AlertReport.CulpritsAre(UnassignedPrisoners);
         }
