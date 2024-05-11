@@ -350,3 +350,5 @@ MigrationBackup/
 .ionide/
 
 *.zip
+_PublisherPlus.xml
+0Harmony.dll

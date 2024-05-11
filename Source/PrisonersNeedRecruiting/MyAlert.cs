@@ -10,7 +10,8 @@ namespace PrisonersNeedRecruiting
     public class Alert_PrisonersNonInteract : Alert_Critical
     {
         private List<Pawn> UnassignedPrisoners => PawnsFinder.AllMaps_PrisonersOfColonySpawned
-                    .Where(prisoner => prisoner.guest.interactionMode == PrisonerInteractionModeDefOf.NoInteraction)
+                    .Where(prisoner => prisoner.guest.ExclusiveInteractionMode == PrisonerInteractionModeDefOf.MaintainOnly)
+                    // TODO: Try this ingame 
                     .ToList();
 
         private const int RIGHT_CLICK = 1;

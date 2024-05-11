@@ -2,5 +2,5 @@
 <LanguageData>
     <PrisonerSetToNonInteract>Unassigned Prisoner</PrisonerSetToNonInteract>
     <PrisonersSetToNonInteract>Unassigned Prisoners</PrisonersSetToNonInteract>
-    <PrisonersSetToNonInteractDesc>These prisoners are set to non-interact:\n\n{0}\nHave you forgotten to assign them to some interaction?\n\n(Right click this notification to dismiss until you get new prisoners)</PrisonersSetToNonInteractDesc>
+    <PrisonersSetToNonInteractDesc>These prisoners are set to maintain-only:\n\n{0}\nHave you forgotten to assign them to some interaction?\n\n(Right click this notification to dismiss until you get new prisoners)</PrisonersSetToNonInteractDesc>
 </LanguageData>
