@@ -7,7 +7,7 @@ using Verse;
 
 namespace PrisonersNeedRecruiting
 {
-    public class Alert_PrisonersAlreadyConverted : Alert
+    public class Alert_PrisonersAlreadyConverted : Alert_Critical
     {
         // Wardens skip prisoners who already share their ideoligion, and the game never
         // switches them off Convert, so these prisoners sit idle until reassigned.
