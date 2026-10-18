@@ -3,4 +3,7 @@
     <PrisonerSetToNonInteract>Unassigned Prisoner</PrisonerSetToNonInteract>
     <PrisonersSetToNonInteract>Unassigned Prisoners</PrisonersSetToNonInteract>
     <PrisonersSetToNonInteractDesc>These prisoners are set to maintain-only:\n\n{0}\nHave you forgotten to assign them to some interaction?\n\n(Right click this notification to dismiss until you get new prisoners)</PrisonersSetToNonInteractDesc>
+    <PrisonerAlreadyConverted>Prisoner Already Converted</PrisonerAlreadyConverted>
+    <PrisonersAlreadyConverted>Prisoners Already Converted</PrisonersAlreadyConverted>
+    <PrisonersAlreadyConvertedDesc>These prisoners are set to convert, but already follow the ideoligion they are being converted to:\n\n{0}\nWardens will not talk to them until you assign another interaction, such as recruit.\n\n(Right click this notification to dismiss until the list changes)</PrisonersAlreadyConvertedDesc>
 </LanguageData>
